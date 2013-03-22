@@ -6,7 +6,7 @@ package entityclass;
      * @author smrita
      * This is a class.
      * The attributes of this class will be retrieved by {@link converter.Attributesretriever}
-     * to create a HTML form dynamically..
+     * to create a HTML form dynamically...
      * 
      * {@see java.lang.String} 
      *
